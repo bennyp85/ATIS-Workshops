@@ -1,3 +1,5 @@
+# ATIS-2025 Workshop
+
 The ATIS-2025 Training Program on “Quantum Programming and Techniques for Information
 Security” is an intensive, five-day immersion that equips IT graduates and early-stage
 researchers with a rigorous foundation in quantum computation, secure quantum communication,
